@@ -15,11 +15,11 @@
 Front-end project. The landing page was based in a organization that distributes seeds around the country, contributing to reforestation, all that free.
 
 ## Architecture:
-* [Header]
-* [Home]
-* [Two sections about the program]
-* [One section to show the catalog]
-* [Footer]
+* Header
+* Home
+* Two sections about the program
+* One section to show the catalog
+* Footer
 
 ## Getting Started
 
