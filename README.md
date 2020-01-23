@@ -6,7 +6,7 @@
     <br />
     <img src="layout.png">
     
-    ### Built With
+ ## Build with
 * [Bootstrap](https://getbootstrap.com)
 * [HTML](https://html.com)
 * [CSS](https://css.com)
